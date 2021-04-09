@@ -40,15 +40,15 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To cloudcandy.</h2>
-			<h3>Contact @ +91-9597361516 </h3>
+			<h2>JWelcome to Greens Technology </h2>
+			<h3>Perumbakkam </h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; cloudcandy 2020</p>
+		<p>&copy; greenstechnology 2020</p>
 	</footer>
 </div>
 
